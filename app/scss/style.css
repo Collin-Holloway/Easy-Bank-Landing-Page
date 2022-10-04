@@ -19,7 +19,6 @@ body {
 
 a, a:visited, a:hover {
   text-decoration: none;
-  color: hsl(220deg, 8%, 62%);
 }
 
 .flex {
@@ -45,6 +44,18 @@ button, .button {
   font-weight: 400;
 }
 
+@media (max-width: 63.9375em) {
+  .hide-for-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 64em) {
+  .hide-for-desktop {
+    display: none;
+  }
+}
+
 .header nav {
   padding: 24px;
 }
@@ -59,4 +70,9 @@ button, .button {
 }
 .header__links a {
   font-size: 0.875rem;
+  color: hsl(220deg, 8%, 62%);
+}
+.header__cta {
+  font-size: 0.875rem;
+  color: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=style.css.map */
