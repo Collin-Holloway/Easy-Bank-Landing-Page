@@ -1,6 +1,9 @@
 # Easy Bank Landing Page
 An accesbile landing page for a bank. Viewable on phones, tablets, and desktop.
 
+See the project here: https://texaseasybank.netlify.app/
+
+
 
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, Sass
