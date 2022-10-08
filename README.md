@@ -4,6 +4,7 @@ An accesbile landing page for a bank. Viewable on phones, tablets, and desktop.
 See the project here: https://texaseasybank.netlify.app/
 
 
+<img src="demo/easybank.gif" width="500" height="%100"/>
 
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, Sass
