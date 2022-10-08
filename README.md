@@ -5,7 +5,7 @@ An accesbile landing page for a bank. Viewable on phones, tablets, and desktop.
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, Sass
 A full course of HTML CSS and Javascript to build, define, and create a landing page that a user can access from any devide. A new introduction to SaSS and it's utliity. A test of my ability to follow directions and learn new concepts with the guidance of 
-![Frontend Mentor](https://www.frontendmentor.io/home)
+<a href="https://www.frontendmentor.io/home" target="_blank">Front end Mentor</a>
 
 ## Optimizations
 
